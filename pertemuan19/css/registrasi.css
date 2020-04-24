@@ -1,0 +1,76 @@
+body {
+    background-color: #000000;
+    /* sesuai */
+    font-family: Arial;
+    /* sesuai */
+}
+
+input,
+button {
+    font-size: 16px;
+    /* sesuai */
+}
+
+form,
+button {
+    border-radius: 5px;
+    /* sesuai */
+}
+
+form {
+    background-color: rgb(182, 17, 17);
+    margin: 250px auto;
+    width: fit-content;
+    padding: 30px;
+}
+
+input {
+    width: 250px;
+    display: block;
+    border: none;
+    border-bottom: 3px solid #ddd;
+    /* sesuai */
+    color: black;
+    padding: 10px 0;
+    margin: 10px;
+}
+
+input::-webkit-input-placeholder {
+    color: rgb(160, 160, 160);
+}
+
+input:focus {
+    border: none;
+    border-bottom: 3px solid #badc58;
+    background-color: #badc58;
+    /* sesuai */
+}
+
+input:hover {
+    border: none;
+    border-bottom: 3px solid #badc58;
+}
+
+h2 {
+    text-align: center;
+    /* sesuai */
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button {
+    display: block;
+    background-color: #badc58;
+    /* sesuai */
+    padding: 12px 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin: 25px auto 0 auto;
+    text-align: center;
+}
+
+button:hover {
+    background-color: #a5c24e;
+    /* sesuai */
+}

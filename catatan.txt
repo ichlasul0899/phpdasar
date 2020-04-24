@@ -1,0 +1,29 @@
+Dari pertemuan 1 sd 12 Belajar tentang CRUD. SUCCES
+
+Login System:
+1. registrasi
+2. Login
+3. Sesion
+4. Cookie
+
+
+pertemuan 14 selesai, dan berhasil emalkukan registrasi
+
+Pertemuan Selanjutnya adalah pagination 
+
+pagination : untuk membatasi data di web kita menjadi beberapa halaman, ketika data banyak maka harus scroll, maknya harus menggunakan pagination.
+
+memanfaatkan keyword dalam sql : limit
+
+tujuan nya, mau berapa data yang tampil
+
+Fitur Live search, ketika ketik pencarian, dibawah nya sudah ada hasil pencarian nya.
+
+Untuk menggunakan live search makan bisa gunakan ajax.
+
+AJAX :Asynhronus Javascript And XML
+
+PERTEMUAN 19 ADALAH HASIL COPY DARI PERTEMUAN 17.
+
+
+buat object ajax, ce kesiapan, ganti isi container dengan apapun response dari sumber, itulah mekanisme ajax live search
